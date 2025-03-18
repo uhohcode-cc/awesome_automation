@@ -1,0 +1,133 @@
+Here's a rewritten list of the tools and categories mentioned in your document, organized with their respective links:
+
+## Web Automation Tools:
+
+- [Puppeteer](https://pptr.dev/)
+- [Selenium Suite](https://www.selenium.dev/)
+- [OSlash](https://www.oslash.com/)
+- [Axiom.ai](https://axiom.ai/)
+- [BrowserFlow](https://www.browserflow.app/)
+- [Automa](https://www.automa.site/)
+- [UiPath Studio Web](https://www.uipath.com/product/studio-web)
+- [Bardeen](https://www.bardeen.ai/)
+- [Cypress](https://www.cypress.io/)
+- [Playwright](https://playwright.dev/)
+
+## Web Scraping Tools:
+
+### Free No-Code Tools:
+- [Octoparse](https://www.octoparse.com/)
+- [ScrapingBot](https://scrapingrobot.com/)
+- [ParseHub](https://www.parsehub.com/)
+- [Data Scraper](https://chromewebstore.google.com/detail/data-scraper/)
+- [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/)
+
+### Open-Source Libraries:
+- [Scrapy](https://scrapy.org/)
+- [Heritrix](https://github.com/internetarchive/heritrix3)
+- [Web-Harvest](https://web-harvest.sourceforge.net/)
+
+## Browser Automation Extensions:
+- [Automa](https://www.automa.site/)
+- [Bardeen](https://www.bardeen.ai/)
+- [Axiom.ai](https://axiom.ai/)
+
+---
+
+## Mobile Automation Tools:
+
+### Android:
+- [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid)
+- [AutomateIt](https://automateitapp.com/)
+- [Automate (by LlamaLab)](https://llamalab.com/automate/)
+- [Google Assistant Routines](https://support.google.com/assistant/answer/7672035)
+
+### iOS:
+- [Shortcuts (Apple)](https://support.apple.com/guide/shortcuts/welcome/ios)
+- [IFTTT](https://ifttt.com/)
+
+---
+
+## GitHub Open-Source Automation Repositories:
+
+### General Automation:
+- [automatisch (Zapier alternative)](https://github.com/automatisch/automatisch)
+- [Skyvern (AI Web Automation)](https://github.com/Skyvern-AI/skyvern)
+- [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation)
+
+### Android Scripts:
+- [Termux Scripts](https://github.com/vaites/termux-scripts)
+- [Android Automation Scripts](https://github.com/mohamad-supangat/android_automation_scripts)
+- [Handy Android Scripts](https://github.com/seffparker/android-scripts)
+- [Android Testing Automation](https://github.com/gioulisapo/Android-Automation)
+- [DroidBot-GPT (ChatGPT automation for Android)](https://github.com/MobileLLM/DroidBot-GPT)
+
+### iOS Scripts:
+- [Scriptable Scripts](https://github.com/ajatkj/scriptable)
+- [Automation iOS Scriptable](https://github.com/cvknage/Automation-iOS-Scriptable)
+- [Jenkins iOS Automation](https://github.com/Hipo/jenkins-ios-automation)
+- [AutoTouch & Scriptable Scripts](https://github.com/Prem-ium/iOS-Automation)
+- [Appium iOS Automation](https://github.com/SmritiTuteja/AppiumiOSAutomation)
+
+### Web Automation Scripts:
+- [Web Automation with Selenium (Java)](https://github.com/An-Nihal/Web-Automation-)
+- [Awesome User Scripts](https://github.com/awesome-scripts/awesome-userscripts)
+- [Awesome Browser Automation](https://github.com/angrykoala/awesome-browser-automation)
+- [Browser Automation Selenium & Python](https://github.com/gowdhamp/browser-automation)
+- [SeleniumHQ Official](https://github.com/SeleniumHQ/selenium)
+- [Automation Scripts](https://github.com/inputsh/automation-scripts)
+
+### Python Automation:
+- [Python Automation Scripts](https://github.com/shan18/Python-Automation-Scripts)
+- [Curated Python Automation Scripts](https://github.com/DhanushNehru/Python-Scripts)
+- [Python Task Automation](https://github.com/patrickloeber/python-task-automation)
+- [Automation Scripts Repo](https://github.com/python-geeks/Automation-scripts)
+
+---
+
+## Integration & Workflow Platforms:
+
+### No-Code Integration:
+- [Zapier](https://zapier.com/)
+- [Make (formerly Integromat)](https://www.make.com/en)
+- [IFTTT](https://ifttt.com/)
+- [webMethods.io Integration](https://www.softwareag.com/en_corporate/resources/application-integration/ds/webmethods-io-integration-free-forever.html)
+
+### Open-Source Integration Frameworks:
+- [Apache Camel](https://camel.apache.org/)
+- [Open Integration Hub](https://www.openintegrationhub.org/)
+- [Airbyte](https://airbyte.com/)
+
+---
+
+## Personal and Small Business Automation Tools:
+
+### Social Media Automation:
+- [Buffer (Free tools)](https://buffer.com/free-tools)
+- [Hootsuite (Free tools)](https://www.hootsuite.com/social-media-tools)
+
+### Email Management:
+- [Inbox Zero](https://www.getinboxzero.com/blog/post/free-email-management-software)
+- [Mailchimp](https://mailchimp.com/)
+- [Brevo (Sendinblue)](https://www.brevo.com/)
+
+### File Organization & Backup:
+- [Google Drive](https://drive.google.com/)
+- [Paragon Backup & Recovery](https://www.paragon-software.com/free/br-free/)
+- [Cobian Backup](https://www.cobiansoft.com/cobianbackup.html)
+- [FBackup](https://www.fbackup.com/)
+- [DropIt](http://www.dropitproject.com/)
+
+### Smart Home Automation:
+- [Google Home](https://home.google.com/welcome/)
+- [openHAB](https://www.openhab.org/)
+
+### Notification Systems:
+- [Zinc](https://www.zinc.systems/)
+- [Omnilert](https://www.omnilert.com/)
+- [AlertMedia](https://www.alertmedia.com/)
+
+### CRM and Marketing Automation:
+- [EngageBay](https://www.engagebay.com/)
+- [Mailchimp](https://mailchimp.com/)
+- [Brevo (Sendinblue)](https://www.brevo.com/)
